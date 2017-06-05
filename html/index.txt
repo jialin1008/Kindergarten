@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <title>我的</title>
+   <!-- <link rel="stylesheet" href="css/wode.css"/>-->
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/wode.css">
+    <!--[if lt IE 9]>
+    <script src="lib/html5shiv/html5shiv.min.js"></script>
+    <script src="lib/respond/respond.min.js"></script>
+    <![endif]-->
+    <script src="lib/jquery/jquery.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.js"></script>
+    <script src="js/shijianjuli/TimeDifference.js"></script>
+    <script src="js/main.js"></script>
+</head>
+
+<body>
+<div class="neirong" id="youeryuan">
+    <div class="header1">
+        <a href="index.html"><span class="span1"><</span></a>
+        <span class="span2">我的</span>
+    </div>
+    <div class="blank"></div>
+    <div class="centre" id="per">
+        <a href="main-personal.html">
+            <div class="pic">
+                <img src="images/01.jpg" alt=""/>
+            </div>
+            <div class="text">
+        <div class="text-top">
+            唐国辉老师
+        </div>
+        <div class="text-bottom">
+            登录手机：18565689925
+        </div>
+            </div>
+            <div class="sign">></div>
+        </a>
+    </div>
+    <div class="blank"></div>
+    <div class="middle">
+        <div class="problem">
+            <a href="main-problem.html"><img src="images/help.png" alt=""/>
+                <div>常见问题</div>
+                <div class="div">></div></a>
+        </div>
+        <div class="about">
+            <a href="main-about.html"><img src="images/about.png" alt=""/>
+                <div>关于我们</div>
+                <div class="div">></div></a>
+        </div>
+    </div>
+
+        <a href="main-tuichu.html"><button>退出登录</button></a>
+
+
+</div>
+
+
+
+<script src="js/meirishipu.js"></script>
+
+</body>
+
+</html>
+
+
